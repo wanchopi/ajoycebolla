@@ -1,0 +1,12 @@
+p {
+  font-size: large;
+}
+#email {
+  text-align: center;
+}
+a {
+  color: rgb(65, 56, 56);
+}
+a:hover {
+  color: gray;
+}
